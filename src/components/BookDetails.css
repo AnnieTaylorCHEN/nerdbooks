@@ -1,0 +1,9 @@
+.book__details {
+    margin: 0 auto;
+    max-width: 800px;
+    
+}
+
+.book__details button {
+    margin: 1rem 0;
+}

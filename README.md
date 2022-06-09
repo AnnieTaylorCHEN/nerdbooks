@@ -1,3 +1,35 @@
+# Nerd Books by Annie 
+
+## how to run it 
+
+`npm i` and `npm start`. When you click on book card you can view single book page.
+
+## preview
+![view all books](./allbooks.png)
+![single book](./book.png)
+
+## What went well 
+
+- generally display books from fake json
+- single book page from route
+- form to submit new book and save in localStorage, which can be displayed together with other books
+- simple styling to make it viewable
+
+## what could be improved 
+
+- overall styling is awful, given more time they can definitely be prettier than it is
+- the form data aren't properly matched as the original json data structure, and currently we can only add one book as an example. (localstorage book can't have single page view)
+- time is not formatted
+- there needs to be high level updating function when adding a new book to automatically refresh the book list 
+- there are cases where detailed typescript should be written but I used any to make it faster (as our data is a bit messy)
+
+Given the limited time, that's what I have come up so far. 
+
+
+Annie# 
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

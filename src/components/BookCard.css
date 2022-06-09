@@ -1,0 +1,12 @@
+.book__card {
+    padding: 1rem;
+    border: 1px solid skyblue;
+}
+
+.book__card:hover {
+    background-color: #e7f5fe;
+}
+
+.book__card img {
+    max-width: 250px;
+}
