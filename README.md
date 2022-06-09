@@ -1,11 +1,13 @@
 # Nerd Books by Annie 
 
-## how to run it 
+## How to run it 
 
 `npm i` and `npm start`. When you click on book card you can view single book page.
 
-## preview
+## Preview
+All books 
 ![view all books](./allbooks.png)
+Single book
 ![single book](./book.png)
 
 ## What went well 
@@ -15,7 +17,7 @@
 - form to submit new book and save in localStorage, which can be displayed together with other books
 - simple styling to make it viewable
 
-## what could be improved 
+## What could be improved 
 
 - overall styling is awful, given more time they can definitely be prettier than it is
 - the form data aren't properly matched as the original json data structure, and currently we can only add one book as an example. (localstorage book can't have single page view)
@@ -26,7 +28,7 @@
 Given the limited time, that's what I have come up so far. 
 
 
-Annie# 
+Annie
 
 ---
 
